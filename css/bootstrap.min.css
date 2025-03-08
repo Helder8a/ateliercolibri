@@ -4323,7 +4323,7 @@ fieldset:disabled .btn {
 .nav-link {
     display: block;
     padding: .5rem 1rem;
-    color: #4C688D; /*** cambiar color de texto barra navegacion ***/
+    color: #b45959; /*** cambiar color de texto barra navegacion ***/
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out
 }
 
@@ -4335,11 +4335,11 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #4C688D   /*** cambiar color de texto barra navegacion link ***/
+    color: #b45959   /*** cambiar color de texto barra navegacion link ***/
 }
 
 .nav-link.disabled {
-    color: #6c757d;
+    color: #b45959;
     pointer-events: none;
     cursor: default
 }
@@ -8284,7 +8284,7 @@ fieldset:disabled .btn {
 }
 
 .text-primary {
-    color: #4C688D !important /*** cambiar color de texto Titulo en barra de Navegacion de la pagina ***/
+    color: #3c3535 !important /*** cambiar color de texto Titulo en barra de Navegacion de la pagina ***/
 }
 
 .text-secondary {
@@ -8367,7 +8367,7 @@ fieldset:disabled .btn {
     background-color: #EFFDF5 !important  /*** cambiar color sombra de clasificador  ***/
 }
 .bg-dark {
-    background-color: #487CA2!important /*** cambiar color del footer ***/
+    background-color: #b45959!important /*** cambiar color del footer ***/
 }
 .bg-body {
     background-color: #EFFDF5 !important
