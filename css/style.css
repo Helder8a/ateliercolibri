@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #1e61a8d0;
+    --primary: #b45959;
     --secondary: #FF6922;
     --light: #EFFDF5;
     --dark: #0E2E50;
@@ -220,7 +220,7 @@
 }
 
 
-/*** About ***/
+/*** curso ***/
 .about-img img {
     position: relative;
     z-index: 2;

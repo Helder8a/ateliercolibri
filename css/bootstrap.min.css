@@ -80,7 +80,7 @@ h6,
     font-family: "Inter", sans-serif;
     font-weight: 700;
     line-height: 1.2;
-    color: #1e61a8d0 /*** cambiar color de Texto Titulos H1 de la pagina***/
+    color: #3a3535 /*** cambiar color de Texto Titulos de la pagina***/
 }
 
 h1,
@@ -3122,14 +3122,14 @@ fieldset:disabled .btn {
 
 .btn-secondary {
     color: #FF6922;
-    background-color: #2a9926;  /*** cambiar color de botones ***/
-    border-color: #2a9926       /*** cambiar color borde de botones ***/
+    background-color: #b45959;  /*** cambiar color de botones ***/
+    border-color: #b45959       /*** cambiar color borde de botones ***/
 }
 
 .btn-secondary:hover {
     color: #FF6922;
-    background-color: #FF6922;  /*** cambiar color de botones ***/
-    border-color: #FF6922       /*** cambiar color borde de botones ***/
+    background-color: #b45959;  /*** cambiar color de botones ***/
+    border-color: #b45959       /*** cambiar color borde de botones ***/
 }
 
 .btn-check:focus+.btn-secondary,
@@ -8288,7 +8288,7 @@ fieldset:disabled .btn {
 }
 
 .text-secondary {
-    color: #dc3545 !important /*** cambiar color de texto Titulo en Carousela ***/
+    color: #dc3545 !important /*** cambiar color de texto Titulo H1 en Carousela ***/
 }
 
 .text-success {
