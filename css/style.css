@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #b45959;
+    --primary: #BD9231; /*** cambiar color cursos***/
     --secondary: #FF6922;
     --light: #EFFDF5;
     --dark: #0E2E50;
@@ -103,7 +103,7 @@
 .navbar-light .navbar-nav .nav-link {
     margin-right: 30px;
     padding: 25px 0;
-    color: #b45959;  /*** cambiar color HOME en barra de navegacion***/
+    color: #BD9231;  /*** cambiar color HOME en barra de navegacion***/
     font-size: 15px;
     text-transform: uppercase;
     outline: none;
@@ -111,8 +111,8 @@
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-    color: var(--#b45959); /*** cambiar color HOME en barra de navegacion***/
-}
+    color: var(--#BD9231); /*** cambiar color HOME en barra de navegacion***/
+}#b45959
 
 @media (max-width: 991.98px) {
     .nav-bar {

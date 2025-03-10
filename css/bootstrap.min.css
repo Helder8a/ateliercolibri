@@ -19,7 +19,7 @@
     --bs-success: #198754;
     --bs-info: #0dcaf0;
     --bs-warning: #ffc107;
-    --bs-danger: #dc3545;
+    --bs-danger: #BD9231;
     --bs-light: #EFFDF5;
     --bs-dark: #0E2E50;
     --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -4323,7 +4323,7 @@ fieldset:disabled .btn {
 .nav-link {
     display: block;
     padding: .5rem 1rem;
-    color: #b45959; /*** cambiar color de texto barra navegacion ***/
+    color: #BD9231; /*** cambiar color de texto barra navegacion ***/
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out
 }
 
@@ -4335,7 +4335,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #b45959   /*** cambiar color de texto barra navegacion link ***/
+    color: #BD9231  /*** cambiar color de texto barra navegacion link ***/
 }
 
 .nav-link.disabled {
