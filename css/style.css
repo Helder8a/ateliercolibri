@@ -214,7 +214,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: #FFFFFF !important;
+    background:  !important;
     border-radius: 50px;
     border: 1px dashed var(--primary) !important;
 }
@@ -267,7 +267,7 @@
 
 .nav-pills .nav-item .btn:hover,
 .nav-pills .nav-item .btn.active {
-    color: #FFFFFF;
+    color: #6d2077;
 }
 
 .property-item {

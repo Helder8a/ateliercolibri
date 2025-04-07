@@ -4371,7 +4371,7 @@ fieldset:disabled .btn {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
     color: #495057;
-    background-color: #EFFDF5;
+    background-color: #EFFDF;
     border-color: #dee2e6 #dee2e6 #EFFDF5
 }
 
@@ -8360,7 +8360,7 @@ fieldset:disabled .btn {
 }
 
 .bg-danger {
-    background-color: #dc3545 !important
+    background-color: #6d2077 !important
 }
 
 .bg-light {
