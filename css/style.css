@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #BD9231; /*** cambiar color cursos***/
+    --primary: #BD9231; /*** cambiar color botones carrouselcursos***/
     --secondary: #FF6922;
     --light: #EFFDF5;
-    --dark: #0E2E50;
+    --dark: #6d207d;
 }
 
 .back-to-top {
@@ -185,8 +185,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #FFFFFF;
-    background: var(--primary); /*** cambiar color de botones flechas en carrusel ***/
+    color: #6d2077;           /*** cambiar color de flechas de botones en carrusel ***/
+    background: var(--primary); /*** cambiar color de botones en carrusel ***/
     border-radius: 40px;
     font-size: 20px;
     transition: .5s;
